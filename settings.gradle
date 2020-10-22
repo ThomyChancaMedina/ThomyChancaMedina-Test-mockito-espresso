@@ -1,0 +1,3 @@
+include ':unit_testing_fundamentals'
+include ':app', ':TestSecon', ':test3', ':test_double_fundamentals', ':test5DoublesFundamentals', 'TestTher3'
+
